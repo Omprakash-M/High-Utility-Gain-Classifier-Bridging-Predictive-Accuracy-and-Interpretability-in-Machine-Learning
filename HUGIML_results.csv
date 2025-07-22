@@ -1,0 +1,4 @@
+Dataset,Accuracy,F1 Score,AUC,H-Measure,Log Loss,Precision,Recall
+pimaIndianDiabetes,0.7338,0.5941,0.818,0.3803,0.4942,0.6383,0.5556
+Heloc,0.7304,0.7099,0.7991,0.312,0.5442,0.7339,0.6874
+BankMarketingUCI,0.8996,0.2986,0.7924,0.3541,0.2759,0.7012,0.1897
